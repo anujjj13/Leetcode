@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anujjj13/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjj13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anujjj13/Leetcode/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/anujjj13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [3227-find-missing-and-repeated-values](https://github.com/anujjj13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anujjj13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anujjj13/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
