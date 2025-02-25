@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anujjj13/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/anujjj13/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2662-check-knight-tour-configuration](https://github.com/anujjj13/Leetcode/tree/master/2662-check-knight-tour-configuration) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/anujjj13/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
