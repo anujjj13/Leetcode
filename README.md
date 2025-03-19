@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anujjj13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/anujjj13/Leetcode/tree/master/0050-powx-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/anujjj13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anujjj13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anujjj13/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/anujjj13/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anujjj13/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anujjj13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anujjj13/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/anujjj13/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/anujjj13/Leetcode/tree/master/0908-middle-of-the-linked-list) |
