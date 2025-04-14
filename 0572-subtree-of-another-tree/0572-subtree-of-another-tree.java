@@ -20,7 +20,7 @@ class Solution {
 
     return (fullTree.contains(subTree));
     }
-    String preOrderTraversal(TreeNode node) {
+    public String preOrderTraversal(TreeNode node) {
     if (node == null) {
       return "null";
     }
