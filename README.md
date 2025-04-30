@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anujjj13/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anujjj13/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/anujjj13/Leetcode/tree/master/0948-sort-an-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/anujjj13/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2195-time-needed-to-buy-tickets](https://github.com/anujjj13/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/anujjj13/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/anujjj13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anujjj13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/anujjj13/Leetcode/tree/master/0050-powx-n) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/anujjj13/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/anujjj13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
