@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anujjj13/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/anujjj13/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anujjj13/Leetcode/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/anujjj13/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/anujjj13/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anujjj13/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjj13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/anujjj13/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0868-push-dominoes](https://github.com/anujjj13/Leetcode/tree/master/0868-push-dominoes) |
 ## Recursion
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/anujjj13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/anujjj13/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/anujjj13/Leetcode/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/anujjj13/Leetcode/tree/master/0868-push-dominoes) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anujjj13/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
