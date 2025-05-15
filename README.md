@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujjj13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/anujjj13/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/anujjj13/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/anujjj13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anujjj13/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anujjj13/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anujjj13/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anujjj13/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/anujjj13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/anujjj13/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0217-contains-duplicate](https://github.com/anujjj13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujjj13/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/anujjj13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/anujjj13/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anujjj13/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anujjj13/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anujjj13/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/anujjj13/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anujjj13/Leetcode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/anujjj13/Leetcode/tree/master/0948-sort-an-array) |
 ## Bit Manipulation
