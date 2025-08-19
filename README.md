@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anujjj13/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/anujjj13/Leetcode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/anujjj13/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anujjj13/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/anujjj13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/anujjj13/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0806-domino-and-tromino-tiling](https://github.com/anujjj13/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/anujjj13/Leetcode/tree/master/0868-push-dominoes) |
+| [1013-fibonacci-number](https://github.com/anujjj13/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/anujjj13/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/anujjj13/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anujjj13/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/anujjj13/Leetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anujjj13/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anujjj13/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
