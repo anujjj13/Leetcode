@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anujjj13/Leetcode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/anujjj13/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anujjj13/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2481-strictly-palindromic-number](https://github.com/anujjj13/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/anujjj13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/anujjj13/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/anujjj13/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/anujjj13/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/anujjj13/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/anujjj13/Leetcode/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/anujjj13/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
